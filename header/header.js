@@ -1,4 +1,4 @@
-var root = 'ashwanikd.github.io/Graphics/';
+var root = 'http://ashwanikd.github.io/Graphics/';
 document.write('<div class=\"container text-center\">\r\n '+
                '<h1>Learning From Graphics<\/h1>\r\n'+
                '<\/div>\r\n'+
